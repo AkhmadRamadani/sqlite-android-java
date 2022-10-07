@@ -13,7 +13,7 @@
 
 ### Edit
 <img src="images/ss_edit.png" alt="ss 1" style="width:200px;"/>
-<img src="images/ss_edit_success.png" alt="ss 1" style="width:200px;"/>
+<img src="images/ss_edit_succes.png" alt="ss 1" style="width:200px;"/>
 
 ### Delete
 <img src="images/ss_deleted.png" alt="ss 1" style="width:200px;"/>
